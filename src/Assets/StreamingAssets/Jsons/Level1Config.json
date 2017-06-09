@@ -1,0 +1,14 @@
+{
+"rowNum":5,
+"colNum":5,
+"cubeData":
+	[
+		{"cubeId":1, "num":2, "pos":[{"row":3, "col":2}, {"row":4, "col":0}]},
+		{"cubeId":2, "num":2, "pos":[{"row":2, "col":3}, {"row":0, "col":2}]},
+		{"cubeId":3, "num":2, "pos":[{"row":3, "col":1}, {"row":0, "col":4}]}
+	],
+"obstacleData":
+	[
+		{"obstacleId":9, "num":1, "pos":[{"row":0, "col":0}]}
+	]
+}
